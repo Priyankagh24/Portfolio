@@ -9,7 +9,7 @@ You can view the live demo of the website [here](https://aarindey.netlify.app/).
 ## Features
 
 - Responsive design
-- Home page introducing Aarin Dey
+- Home page introducing Priyanka Ghosh
 - Portfolio section showcasing projects
 - Contact page with a form to get in touch
 
