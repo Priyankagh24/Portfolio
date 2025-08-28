@@ -754,6 +754,23 @@ footer {
   object-fit: contain; /* NO distortion */
 }
 
+.partners .brands__wrapper {
+  display: flex;
+  justify-content: center; /* centers them horizontally */
+  gap: 30px; /* adds space between the icons (adjust as needed) */
+  align-items: center; /* vertically aligns them */
+  flex-wrap: wrap; /* makes them wrap on small screens */
+}
+
+.partners .brands__wrapper img {
+  /* width: 60px; adjust size */
+  /* height: auto; */
+  transition: transform 0.2s ease-in-out;
+}
+
+.partners .brands__wrapper img:hover {
+  transform: scale(1.1); /* optional hover effect */
+}
 
 
 
