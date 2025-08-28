@@ -1,6 +1,6 @@
 # Priyanka Ghosh's Portfolio Website
 
-This repository contains the source code for Aarin Dey's portfolio website. The website is built using HTML, CSS, and vanilla JavaScript.
+This repository contains the source code for Priyanka Ghosh's portfolio website. The website is built using HTML, CSS, and vanilla JavaScript.
 <!-- 
 ## Live Demo
 
