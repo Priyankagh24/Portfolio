@@ -1,10 +1,10 @@
 # Priyanka Ghosh's Portfolio Website
 
 This repository contains the source code for Aarin Dey's portfolio website. The website is built using HTML, CSS, and vanilla JavaScript.
-
+<!-- 
 ## Live Demo
 
-You can view the live demo of the website [here](https://aarindey.netlify.app/).
+You can view the live demo of the website [here](https://aarindey.netlify.app/). -->
 
 ## Features
 
@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 You need to have a web browser installed on your machine to view the website locally.
-
+<!-- 
 ### Installation
 
 1. Clone the repository:
@@ -53,4 +53,4 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). -->
